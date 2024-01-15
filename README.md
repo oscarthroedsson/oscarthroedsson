@@ -1,4 +1,4 @@
-![Hi, I'm Oscar](https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQIDYPYraNXpeB0abuhnK4ny1xyvgpT1OgtAKCXawdKBSeWihgkZoXYMriUnng67hrLAK0fUwZU-XllLPuuUOHE5PBrlA=w2236-h1198)
+![Hi, I'm Oscar]
 
 Excitement surged through my veins as I wrote my first lines of HTML code: `<html><head></head><body></body>`. And don't even get me started on the thrill I felt with my first experience of styling..
 
