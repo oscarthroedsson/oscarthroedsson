@@ -1,4 +1,4 @@
-![Hi, I'm Oscar]
+Hi, I'm Oscar
 
 Excitement surged through my veins as I wrote my first lines of HTML code: `<html><head></head><body></body>`. And don't even get me started on the thrill I felt with my first experience of styling..
 
