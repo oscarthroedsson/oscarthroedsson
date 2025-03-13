@@ -1,17 +1,35 @@
-Hi, I'm Oscar
+<h3 align="left">Oscar Throedsson | Software Developer</h3>
+<p align="left">
+  Pragmatic and solution-driven developer with a passion for building well-structured, scalable, and efficient systems.  
+  I focus on simplicity, clarity, and maintainability—whether in frontend, backend, or API integrations.  
+</p>
 
-Excitement surged through my veins as I wrote my first lines of HTML code: `<html><head></head><body></body>`. And don't even get me started on the thrill I felt with my first experience of styling..
+<p align="left">
+  I challenge ideas, question the status quo, and seek the most sustainable solutions.  
+  Code quality, semantics, and accessibility are key priorities, and Git is a natural part of my workflow.  
+  I enjoy creating smart tools that enhance both development processes and user experiences. 🚀  
+</p>
 
-For the longest time, I thought my destiny was in the fitness industry. Helping people get pain-free and improve their quality of life was my passion, or so I believed.
+- 🔭 I’m currently working on **Mealplanner**
 
-But as I look back, I realize that I've always had a knack for building things. At the age of 12, I constructed my first skatepark with two buddies. At 16, I rebuilt a paintball court without having the faintest idea of what I was doing. And by 20, I had established a personal brand as a personal trainer, becoming the first full-time PT and consistently ranking among the top five performers within five years at the company.
+- 🌱 I’m currently learning **React Native and C#**
 
-What drives me is the challenge of creating something that others find difficult to achieve. There's nothing quite like the feeling of taking an idea and giving it an identity, adding value for both myself and others.
+- 👯 I’m looking to collaborate on **Fun projects**
 
-That's why I'm studying to be a front-end developer today. It's a simple reason, really: I get to take ideas and give them an identity while being part of one of the most significant industries in the world. I'm excited to be shaping the future of technology alongside other talented individuals. Just like every mountain began as a small rock, I know that I too have the potential to create something great.
+- 📫 How to reach me **oscar.throedsson@gmail.com**
 
-## Let's keep in touch 🙌
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oscart hroedsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscart hroedsson" height="30" width="40" /></a>
+<a href="https://fb.com/oscar throedsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oscar throedsson" height="30" width="40" /></a>
+<a href="https://instagram.com/oscarthroedsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oscarthroedsson" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/oscarthroedsson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oscarthroedsson" height="30" width="40" /></a>
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/oscarthroedsson/) - the best place for a work-relationship 🤝
-- [Instagram](https://www.instagram.com/oscarthroedsson/) - because a picture says more than a thousand words 📸
-- [oscarthroedsson.se](https://oscarthroedsson.se) 🌍
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarthroedsson&show_icons=true&locale=en" alt="oscarthroedsson" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarthroedsson&" alt="oscarthroedsson" /></p>
+
