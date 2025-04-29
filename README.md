@@ -10,11 +10,9 @@
   I enjoy creating smart tools that enhance both development processes and user experiences. 🚀  
 </p>
 
-- 🔭 I’m currently working on **Mealplanner**
+- 🔭 I’m currently working on **Sanitas Health App** and while that is being tested I build on TypeSync or PureComponents. 
 
-- 🌱 I’m currently learning **React Native and C#**
-
-- 👯 I’m looking to collaborate on **Fun projects**
+- 🌱 I’m currently learning **Improving my existing skill**
 
 - 📫 How to reach me **oscar.throedsson@gmail.com**
 
