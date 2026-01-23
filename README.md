@@ -1,4 +1,5 @@
 <h3 align="left">Oscar Throedsson | Software Developer</h3>
+![Header](./header.svg)
 <p align="left">
   Pragmatic and solution-driven developer with a passion for building well-structured, scalable, and efficient systems.  
   I focus on simplicity, clarity, and maintainability—whether in frontend, backend, or API integrations.  
