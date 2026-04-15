@@ -1,0 +1,15 @@
+<svg width="164" height="164" viewBox="0 0 164 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Skill-Framer-Motion">
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" fill="white"/>
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" stroke="#E2E8F0" stroke-width="7"/>
+<g id="icon" clip-path="url(#clip0_120_1691)">
+<path id="shape-bottom" d="M82 145V103H124L82 61H40V103L82 145Z" fill="#18181B"/>
+<path id="shape-top" d="M40 19L82 61H124V19H40Z" fill="#18181B"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_120_1691">
+<rect width="84" height="126" fill="white" transform="translate(40 19)"/>
+</clipPath>
+</defs>
+</svg>

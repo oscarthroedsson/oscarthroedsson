@@ -1,0 +1,16 @@
+<svg width="164" height="164" viewBox="0 0 164 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Skill-Supabase">
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" fill="white"/>
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" stroke="#E2E8F0" stroke-width="7"/>
+<g id="icon">
+<path id="shape-right-bottom" d="M91.9569 140.588C88.8606 144.487 82.5825 142.351 82.5079 137.372L81.417 64.551H130.382C139.25 64.551 144.197 74.7946 138.682 81.7404L91.9569 140.588Z" fill="url(#paint0_linear_114_1072)"/>
+<path id="shape-left-upper" d="M72.0433 23.4128C75.1397 19.5131 81.4178 21.6499 81.4924 26.6287L81.9705 99.4495H33.6186C24.7495 99.4495 19.8031 89.206 25.3181 82.2601L72.0433 23.4128Z" fill="#27272A"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_114_1072" x1="81.1194" y1="64.3883" x2="115.903" y2="113.261" gradientUnits="userSpaceOnUse">
+<stop stop-color="#27272A"/>
+<stop offset="1" stop-color="#3F3F46"/>
+</linearGradient>
+</defs>
+</svg>

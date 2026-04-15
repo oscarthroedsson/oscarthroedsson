@@ -1,0 +1,11 @@
+<svg width="164" height="164" viewBox="0 0 164 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Skill-HTML5">
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" fill="#F8FAFC"/>
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" stroke="#E2E8F0" stroke-width="7"/>
+<g id="icon">
+<path id="shape-shield" d="M40.125 132.25L31.75 27.5625H132.25L123.875 132.25L82 144.812L40.125 132.25Z" fill="#18181B"/>
+<path id="shape-shieldHighlight" d="M123.875 35.9375H82V138.531L115.5 128.062L123.875 35.9375Z" fill="#27272A"/>
+<path id="shape-shape" d="M54.7812 88.2812L50.5938 48.5H115.5L113.406 61.0625H63.1562L65.25 75.7188H111.312L107.125 115.5L82 123.875L56.875 115.5L54.7812 94.5625H67.3438L69.4375 105.031L82 109.219L94.5625 105.031L96.6562 88.2812H54.7812Z" fill="white"/>
+</g>
+</g>
+</svg>

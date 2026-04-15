@@ -1,0 +1,10 @@
+<svg width="164" height="164" viewBox="0 0 164 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Skill-Qdrant">
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" fill="white"/>
+<rect x="3.5" y="3.5" width="157" height="157" rx="11.5" stroke="#E2E8F0" stroke-width="7"/>
+<g id="icon">
+<path id="shape-innerCircle" d="M23.5 50.5V113.5L81.9966 145L103.936 133.187V109.562L81.9966 121.375L45.4396 101.687V62.3125L81.9966 42.625L118.56 62.3125V141.062L140.5 129.25V50.5L81.9966 19L23.5 50.5Z" fill="#111824"/>
+<path id="shape-outerCircle" d="M60.0637 70.1875V93.8125L81.9966 105.625L103.936 93.8125V70.1875L81.9966 58.375L60.0637 70.1875Z" fill="#111824"/>
+</g>
+</g>
+</svg>
