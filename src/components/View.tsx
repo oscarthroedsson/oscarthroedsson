@@ -9,7 +9,7 @@ export default function View({ children, ...props }: ViewProps) {
   return (
     <section
       {...props}
-      className={`relative flex flex-col h-screen w-screen p-4 overflow-auto ${props.className || ""}`}
+      className={`relative flex flex-col h-screen w-screen p-4 overflow-x-clip ${props.className || ""}`}
     >
       {children}
     </section>

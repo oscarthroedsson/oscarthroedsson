@@ -45,5 +45,7 @@ export function useViewportLookUp() {
     moreLG: width >= BREAKPOINTS.lg,
     moreXL: width >= BREAKPOINTS.xl,
     more2XL: width >= BREAKPOINTS["2xl"],
+    viewPortWidth: width,
+    ...BREAKPOINTS,
   };
 }
