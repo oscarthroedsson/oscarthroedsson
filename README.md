@@ -1,75 +1,17 @@
-# React + TypeScript + Vite
+![Hi, I'm Oscar](https://lh3.googleusercontent.com/u/1/drive-viewer/AAOQEOQIDYPYraNXpeB0abuhnK4ny1xyvgpT1OgtAKCXawdKBSeWihgkZoXYMriUnng67hrLAK0fUwZU-XllLPuuUOHE5PBrlA=w2236-h1198)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Excitement surged through my veins as I wrote my first lines of HTML code: `<html><head></head><body></body>`. And don't even get me started on the thrill I felt with my first experience of styling...
 
-Currently, two official plugins are available:
+For the longest time, I thought my destiny was in the fitness industry. Helping people get pain-free and improve their quality of life was my passion, or so I believed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+But as I look back, I realize that I've always had a knack for building things. At the age of 12, I constructed my first skatepark with two buddies. At 16, I rebuilt a paintball court without having the faintest idea of what I was doing. And by 20, I had established a personal brand as a personal trainer, becoming the first full-time PT and consistently ranking among the top five performers within five years at the company.
 
-## React Compiler
+What drives me is the challenge of creating something that others find difficult to achieve. There's nothing quite like the feeling of taking an idea and giving it an identity, adding value for both myself and others.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+That's why I'm studying to be a front-end developer today. It's a simple reason, really: I get to take ideas and give them an identity while being part of one of the most significant industries in the world. I'm excited to be shaping the future of technology alongside other talented individuals. Just like every mountain began as a small rock, I know that I too have the potential to create something great.
 
-Note: This will impact Vite dev & build performances.
+## Let's keep in touch 🙌
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+- [LinkedIn](https://www.linkedin.com/in/oscarthroedsson/) - the best place for a work-relationship 🤝
+- [Instagram](https://www.instagram.com/oscarthroedsson/) - because a picture says more than a thousand words 📸
+- [oscarthroedsson.se](https://oscarthroedsson.se) 🌍
